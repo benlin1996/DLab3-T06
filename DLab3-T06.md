@@ -17,6 +17,7 @@ This video explores the idea of Jevon's Paradox in the context of sustainable ci
 ## Video
 <iframe width="448" height="252" src="https://www.youtube.com/embed/TsbnIE4v8ps" frameborder="0" allowfullscreen></iframe>
 
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 The video will appear here. Any text between this heading and the next will be removed by the script which will add the video to the page. For the Secret Plan, you should include a storyboard or draft video.
 
 ## Self-check
